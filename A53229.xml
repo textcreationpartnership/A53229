@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The final conclusion or up-shutting of Mr. Ogilby's standing lottery of books; which opened on the second day of June last, to the general satisfaction of all that took cognizance thereof, especially the adventurers.</title>
+            <author>Ogilby, John, 1600-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53229</idno>
+            <idno type="STC">Wing O172A</idno>
+            <idno type="STC">ESTC R222527</idno>
+            <idno type="EEBO-CITATION">99833690</idno>
+            <idno type="PROQUEST">99833690</idno>
+            <idno type="VID">38168</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38168)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1784:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The final conclusion or up-shutting of Mr. Ogilby's standing lottery of books; which opened on the second day of June last, to the general satisfaction of all that took cognizance thereof, especially the adventurers.</title>
+                  <author>Ogilby, John, 1600-1676.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1668]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Booksellers and bookselling --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38168:1" rendition="simple:additions"/>
+            <head>The Final Concluſion Up-ſhutting of Mr. <hi>OGILBY</hi>'s Standing LOTTERY <hi>Of BOOKS; which Opened on the Second Day of</hi> June <hi>laſt, to the General ſatisfaction of all that took Cognition thereof, Eſpecially the Adventurers.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Author therefore, that he may the better pleaſe his former Adventurers, many of them being earneſt once more to try their Fortunes, and alſo ſeveral others that wanting notice Laps'd their time, and now ſtand ready with the formoſt to put in their mony, reſolves to make a clear Warehouſe by a General diſpatch of thoſe few Remainders, which to continue the work, He (when they were Delatory) Drew for himſelf. And alſo thoſe Supernumeraries Printed, to ſatisfie the ſeveral Claims of the Many that might draw only Blanks, bringing all down in the ſame man<g ref="char:EOLhyphen"/>ner to the like low Markets and Under-rated Vendition, expecting thereby to ſet at Rights his vaſt charge of re-Printing; extraordinary coſt in expedition, and former deplorable Loſs by the Fire: ſo making himſelf a ſmall pittance from a competent Gain: the Propoſals are the ſame with the former, only this Additional encouragement, That whereas the Adventurers were ſo kind as to part with their money, and ſtay for their Prizes, till Printed and prepared, Repoſing ſo much truſt and confidence in the Authors Integrity; Now ſhall, at one and the ſame inſtant, know their Chance, and Receive their Books.</p>
+            <div type="propositions">
+               <head>The PROPOSITIONS.</head>
+               <p>
+                  <hi>FIrſt,</hi> Whoſoever will be pleaſed to put in Five ſhillings ſhall draw a Lot, his Fortune to Receive the greateſt or meanest Prize.</p>
+               <p>
+                  <hi>Secondly,</hi> Whoever will Adventure deeper putting in Twenty five ſhillings ſhall be preſented by the Author.</p>
+               <p>
+                  <hi>Thirdly,</hi> Who thinks fit to put in for Eight Lots Forty ſhillings ſhall Receive Nine, and the advantage of their free choice, if all Blanks, of any of the Works next hereafter named, <hi>viz. Virgill, AEſop</hi> Compleat, or the <hi>Hiſtory</hi> of <hi>China</hi>; and becauſe the <hi>Homers Iliads</hi> and <hi>Odyſſes</hi> are wanting in the Choices, Whoſoever putting in Forty ſhillings, Draws but one of the Works of <hi>Homer,</hi> or but one Volume of <hi>AEſop</hi> and Eight Blanks, to make perfect, ſhall be preſented with the other.</p>
+            </div>
+            <div type="lot_numbers">
+               <p>
+                  <table>
+                     <head>The Great Prize Contains.</head>
+                     <row>
+                        <cell role="label" rows="5">1 Lot Numbers 1.</cell>
+                        <cell>One <hi>Imperial Bible</hi> with an hundred <hi>Hiſtorical Sculps,</hi> Valued at</cell>
+                        <cell>25<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>One <hi>Virgil</hi> with <hi>Sculps,</hi> Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>The Firſt and Second Volumes of <hi>AEſop</hi> with <hi>Sculps,</hi> Val.</cell>
+                        <cell>6<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>One <hi>Hiſtory</hi> of <hi>China</hi> with <hi>Sculps,</hi> Val.</cell>
+                        <cell>4<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>In all 40 Pound.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="5">1 Lot Number 2.</cell>
+                        <cell>One <hi>Royal Bible</hi> with an hundred <hi>Hiſtorical Sculps,</hi> Val.</cell>
+                        <cell>10<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Virgil</hi> Compleat, Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>AEſop</hi> Compleat, Val.</cell>
+                        <cell>6<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Hiſtory</hi> of <hi>China,</hi> Val.</cell>
+                        <cell>4<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>In all 25 Pound.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="5">1 Lot Numb. 3.</cell>
+                        <cell>One <hi>Royal Bible</hi> with <hi>Sculps,</hi> Val.</cell>
+                        <cell>10<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Virgil,</hi> Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>AEſop</hi> Compleat, Val.</cell>
+                        <cell>6<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Hiſtory</hi> of <hi>China,</hi> Val.</cell>
+                        <cell>4<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>In all 25 Pound.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="4">1 Lot Numb. 4.</cell>
+                        <cell>A <hi>Royal Bible</hi> with an 100 <hi>Hiſtorical Sculps,</hi> Val.</cell>
+                        <cell>10<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Virgil,</hi> Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>AEſop</hi> Compleat, Val.</cell>
+                        <cell>6<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>In all 21 Pound.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="4">1 Lot Numb. 5.</cell>
+                        <cell>A <hi>Royal Bible</hi> with <hi>Sculps,</hi> Val.</cell>
+                        <cell>10<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Virgil,</hi> Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>AEſop</hi> Compleat, Val.</cell>
+                        <cell>6<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>In all 21 Pound.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="4">1 Lot Numb. 6.</cell>
+                        <cell>A <hi>Royal Bible</hi> with <hi>Sculps,</hi> Val.</cell>
+                        <cell>10<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Virgil,</hi> Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Hiſtory</hi> of <hi>China,</hi> Val.</cell>
+                        <cell>4<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>In all 19 Pound.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="4">1 Lot Numb. 7.</cell>
+                        <cell>A <hi>Royal Bible</hi> with <hi>Sculps,</hi> Val.</cell>
+                        <cell>10<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Virgil,</hi> Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Hiſtory</hi> of <hi>China,</hi> Val.</cell>
+                        <cell>4<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>In all 19 Pound.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="4">1 Lot Numb. 8.</cell>
+                        <cell>A <hi>Virgil,</hi> Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>AEſop</hi> Compleat, Val.</cell>
+                        <cell>6<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Hiſtory</hi> of <hi>China,</hi> Val.</cell>
+                        <cell>4<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>In all 15 Pound.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="4">1 Lot Numb. 9.</cell>
+                        <cell>A <hi>Virgil,</hi> Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>AEſop</hi> Compleat, Val.</cell>
+                        <cell>6<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>A <hi>Hiſtory</hi> of <hi>China,</hi> Val.</cell>
+                        <cell>4<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>In all 15 Pound.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="3">1 Lot Numb. 10.</cell>
+                        <cell>A <hi>Royal Bible,</hi> Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>AEſop</hi> Compleat, Val.</cell>
+                        <cell>6<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>In all 11 Pound.</cell>
+                     </row>
+                     <row>
+                        <cell role="label" rows="3">4 Lot Numb. 11.</cell>
+                        <cell>Each an <hi>AEſop</hi> Compleat, Val.</cell>
+                        <cell>6<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>And an <hi>Hiſtory</hi> of <hi>China,</hi> Val.</cell>
+                        <cell>4<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>In all 10 Pound.</cell>
+                     </row>
+                     <row>
+                        <cell role="label">4 Lots Numb. 12.</cell>
+                        <cell>Each a <hi>Homer</hi> Compleat, Val.</cell>
+                        <cell>9<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">4 Lots Numb. 13.</cell>
+                        <cell>Each an <hi>AEſop</hi> Compleat, Val.</cell>
+                        <cell>6<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">100 Lots N. 14.</cell>
+                        <cell>Each a <hi>Virgil,</hi> Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">10 Lots Nu. 15.</cell>
+                        <cell>Each a <hi>Homers Iliads,</hi> Val.</cell>
+                        <cell>5<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">20 Lots Num. 16.</cell>
+                        <cell>Each a <hi>Homers Odyſſes,</hi> Val.</cell>
+                        <cell>4<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">400 Lots Nu.17.</cell>
+                        <cell>Each a <hi>Hiſtory</hi> of <hi>China,</hi> Val.</cell>
+                        <cell>4<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">170 Lots Nu. 18.</cell>
+                        <cell>Each the Firſt Volume of <hi>AEſop.</hi> Val.</cell>
+                        <cell>3<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="label">170 Lots Nu.19.</cell>
+                        <cell>Each the Second Volume of <hi>AEſop,</hi> Val.</cell>
+                        <cell>3<abbr>l.</abbr>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <p>The value of the Books as above, being ſufficiently known to be the Prizes they have been uſually ſold at, Amounts to 4111 <hi>l</hi> bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lots with their proportion of Blanks, Amounts but to 1255 <hi>l.</hi> ſo that the Author receives for his Books little more than one Fourth of the value, which with the poſſibility of the Great Lots, or the probability of Seven Prizes in Nine Lots, as were drawn in the laſt, and the Certainty of Receiving in Books much more than their money, is Encouragement enough to the Adventurer. <hi>But this is ſufficiently underſtood by many.</hi>
+               </p>
+               <p>Thoſe that pleaſe to put in part of their money, Enter their Names and ſo be Drawn in Courſe, may be pleaſed to come or ſend to the <hi>Author's</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at the <hi>Black boy,</hi> over againſt St. <hi>Dunſtans Church</hi> in <hi>Fleet-ſtreet.</hi> The time will be Certain, within Two Months from <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Sixth of <hi>January,</hi> 1668.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
